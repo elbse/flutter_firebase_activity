@@ -16,8 +16,8 @@ class CrudService {
   // Cloud name = uu17u6pj. Replace the preset with the name of YOUR
   // unsigned upload preset (Cloudinary > Settings > Upload > Upload presets).
   final CloudinaryPublic _cloudinary = CloudinaryPublic(
-    'uu17u6pj',
-    'YOUR_UNSIGNED_PRESET',
+    'hfjrdj13',
+    'flutter_notes_preset',
     cache: false,
   );
 

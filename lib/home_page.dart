@@ -136,7 +136,7 @@ class _HomePageState extends State<HomePage> {
                   trailing: Row(
                     mainAxisSize: MainAxisSize.min,
                     children: [
-                      IconButton( // NEW: heart toggle
+                      IconButton( 
                         icon: Icon(
                           isFavorite ? Icons.favorite : Icons.favorite_border,
                           color: Colors.pink,
